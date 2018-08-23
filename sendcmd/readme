@@ -1,1 +1,1 @@
-C could send the command to S,and get the result.S could recv and exeute the command,and send result to C.
+Client could send the command to Server,and get the result.Server could recv and exeute the command,and send result to Client.

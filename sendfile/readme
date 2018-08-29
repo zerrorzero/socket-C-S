@@ -1,1 +1,2 @@
 Client can send file and all subfile to Server.
+Through MD5 validate the file from recv is correct.

@@ -426,7 +426,6 @@ int main(int argc, CHAR *argv[])
 				wprintf(L"File: %s Transfer Successful!\n", filenamebuf);
 				wprintf(L"File Use [%fs] To Transfer\n", (DOUBLE)(fhtm-sttm)/CLOCKS_PER_SEC);
 			}
-
 			closesocket(c_Socket);
 		}
 	}

@@ -1,2 +1,2 @@
 # socket-C-S
-some socket progamming by C
+some socket programming by C
